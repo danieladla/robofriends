@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/danieladla/robofriends.git/static/css/main.d52aba68.chunk.css",
+    "main.js": "/danieladla/robofriends.git/static/js/main.c69953a0.chunk.js",
+    "main.js.map": "/danieladla/robofriends.git/static/js/main.c69953a0.chunk.js.map",
+    "runtime-main.js": "/danieladla/robofriends.git/static/js/runtime-main.b5b6cd09.js",
+    "runtime-main.js.map": "/danieladla/robofriends.git/static/js/runtime-main.b5b6cd09.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/danieladla/robofriends.git/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.557a9058.chunk.js": "/danieladla/robofriends.git/static/js/2.557a9058.chunk.js",
+    "static/js/2.557a9058.chunk.js.map": "/danieladla/robofriends.git/static/js/2.557a9058.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/danieladla/robofriends.git/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/danieladla/robofriends.git/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/danieladla/robofriends.git/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/danieladla/robofriends.git/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.d52aba68.chunk.css.map": "/danieladla/robofriends.git/static/css/main.d52aba68.chunk.css.map",
+    "static/js/2.557a9058.chunk.js.LICENSE.txt": "/danieladla/robofriends.git/static/js/2.557a9058.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/danieladla/robofriends.git/static/media/SEGA.8a619f32.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5b6cd09.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.557a9058.chunk.js",
+    "static/css/main.d52aba68.chunk.css",
+    "static/js/main.c69953a0.chunk.js"
+  ]
+}
